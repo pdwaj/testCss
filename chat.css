@@ -1,5 +1,5 @@
 /* Get font from External Link */
-@font-face {
+/* @font-face {
   font-family: "Nexa";
   src: url(https://apiuat.allwaysmember.org/styles/Five9Chat/NexaRegular.otf);
   font-weight: normal;
@@ -8,7 +8,7 @@
   font-family: "Nexa";
   src: url(https://apiuat.allwaysmember.org/styles/Five9Chat/Nexa-Bold.otf);
   font-weight: bold;
-}
+} */
 
 body {
   font-family:Nexa !important;
